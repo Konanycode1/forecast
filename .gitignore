@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Logs NASA bruts (> 100 Mo, limite GitHub)
+data/raw/
